@@ -1,4 +1,4 @@
-# 🏠 House-Sales-in-King-County-USA
+# 🏠 House Sales in King County USA
  Projeto fictício. O conteúdo apresentado neste projeto, incluindo a empresa, as perguntas e os dados, não são reais. A ideia desse projeto foi inspirada no [blog](https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9)📝 
  Os dados utilizados foram retirados do [site](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?resource=download)🔎. O objetivo é fornecer um estudo de caso fictício para exemplificar a aplicação de técnicas e metodologias em um contexto simulado.
 ***
