@@ -99,6 +99,17 @@
  Além disso, foi observado que as reformas nos imóveis têm um impacto significativo no valor. Em média, casas que passaram por reformas têm um valor cerca de 43,2% maior do que casas sem reformas. Com base nisso, as melhores sugestões para aumentar o valor dos imóveis seriam melhorar as condições da casa e a vista dos imóveis.
 
 
+***
+### 🔨 Linguagens, Tecnologias e Bibliotecas Utilizadas
+  <div style="display: flex; flex-direction: row;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Descrição da Imagem" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Descrição da Imagem" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" width="100">
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="120">
+   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="135">
+</div>
+
 
 
 
